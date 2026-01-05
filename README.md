@@ -1,2 +1,3 @@
-# HeteroRuntime.jl
+# AutoScheduler.jl
+
 {Auto Scheduler}
