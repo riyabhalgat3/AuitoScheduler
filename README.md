@@ -1,4 +1,4 @@
-# AutoScheduler
+# AutoScheduler.jl
 
 AutoScheduler is a cross-platform, energy-aware scheduling framework for heterogeneous
 systems (CPU, GPU, NUMA), implemented in Julia.
